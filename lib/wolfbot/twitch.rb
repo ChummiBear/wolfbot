@@ -38,6 +38,7 @@ module Wolfbot
         end
         if message =~ /^!announce/
           user = match[14]
+          
           param = message.match(/^!announce (.+)/)
           param = param && param[1]
 

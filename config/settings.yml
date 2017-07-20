@@ -1,8 +1,8 @@
 twitch:
-  username: 
-  password: 
-  channel: 
+  username: wolfminion
+  password: oauth:0sjz2ofsjmh98me9ey1fnwd5exyfj7
+  channel: deadwolfsa
 discord:
-  clientid: 
-  channelid: 
-  token: 
+  clientid: 335408373262450690
+  channelid: 335409073413685248
+  token: MzM1NDA4MzczMjYyNDUwNjkw.DEpWMA.mT5tlH8AqDf4QVSU8_jrCKwi_7E
